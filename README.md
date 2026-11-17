@@ -1,4 +1,4 @@
-# Supplement S1. Constructing and verifying a dominating set
+# Constructing and verifying a dominating set
 
 This software accompanies *A random-access construction of 1,2-efficient dominating sets in grids with an even side*, by Marek Gałązka and Hanna Wdowicka. The implementation and the finite tests use the Python standard library and were tested with Python 3.12.14. A separate solver input checks the two symbolic claims.
 
